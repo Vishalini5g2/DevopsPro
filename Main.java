@@ -16,6 +16,9 @@ public class Main {
 
         
             System.out.println("Hello, DEVOPS ! It's great to meet you.");
+          System.out.println("Welome");
+          System.out.println("to");
+          System.out.println("CMR COLLEGE OF ENGINEERING AND TECHNOLOGY");
         
         // Closing the scanner to avoid resource leaks
        
